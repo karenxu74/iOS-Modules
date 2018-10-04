@@ -1,0 +1,18 @@
+"activity.details.contactSeller.noEmail.errorTitle" = "It looks like email isn’t set up on your mobile yet.";
+"activity.details.counterPartySendMoney.text" = "Send payments";
+"activity.details.funding.from.text" = "Source";
+"activity.details.funding.to.text" = "Destination";
+"activity.details.invoice.action.visitwebsite" = "You can manage invoices on our <a href='%1$@'>website</a>.";
+"activity.details.moneyRefunded.credit.text" = "You were refunded %1$@ by %2$@";
+"activity.details.moneyRefunded.debit.text" = "You sent a refund of %1$@ to %2$@ ";
+"activity.details.order.credit.text" = "%2$@ received an order for %1$@";
+"activity.details.order.echeck.goodsAndServices.credit.text" = "eCheck estimated completion date is %1$@. Do not ship items until you receive the payment.";
+"activity.details.order.echeck.goodsAndServices.debit.text" = "The eCheque estimated completion date is %1$@. We advise sellers to not ship items until they receive payment.";
+"activity.details.payafterdelivery.failure-alert.text" = "Something seems to have gone wrong. Please wait a moment, then give it another try.";
+"activity.details.requestMoney.cancelRequest.alertMessageRequester" = "We’ll email %1$@ letting them know you declined the payment request.";
+"activity.details.transactionID.text" = "Transaction ID: %1$@";
+"activity.filter.segmentedControl.in" = "Payments received";
+"activity.filter.segmentedControl.out" = "Payments sent";
+"activity.list.noTransactions.details.label.text" = "Quickly find all your payment info, respond to payment requests, send payments, and more.";
+"activity.list.noTransactions.systemErrorDetails.label.text" = "It looks like something went wrong on our end. Please try again in a moment.";
+"activity.list.noTransactions.systemErrorTitle.label.text" = "Please try that again";
