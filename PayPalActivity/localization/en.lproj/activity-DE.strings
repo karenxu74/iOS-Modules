@@ -1,4 +1,4 @@
-"activity.details.contactSeller.noEmail.errorOk" = "Okay";
+"activity.details.contactSeller.noEmail.errorOk" = "Ok";
 "activity.details.contactSeller.noEmail.errorTitle" = "It looks like email isn’t set up on your mobile yet.";
 "activity.details.counterPartyHistory.text" = "See other transactions";
 "activity.details.funding.from.text" = "Withdrawal from";
