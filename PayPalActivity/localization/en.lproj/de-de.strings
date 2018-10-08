@@ -1,0 +1,38 @@
+
+"activity.details.contactSeller.noEmail.errorOk" = "OK";
+
+"activity.details.contactSeller.noEmail.errorTitle" = "Es sieht so aus, als ob die E-Mail noch nicht auf deinem Handy eingerichtet ist.";
+
+"activity.details.counterPartyHistory.text" = "Siehe andere Transaktionen";
+
+"activity.details.funding.from.text" = "Rücktritt von";
+
+"activity.details.invoice.action.visitwebsite" = "Sie können Rechnungen auf unserer Websiteverwalten. <a href='%1$@'> </a>";
+
+"activity.details.moneyRequestCancel.text" = "Die Anfrage für %1$@ wurde storniert";
+
+"activity.details.moneyRequestRequestee.requestReceived.text" = "%2$@ angefordert %1$@";
+
+"activity.details.moneyTransfered.debit.text" = "Sie haben %1$@ zu %2$@ zurückgezogen";
+
+"activity.details.order.credit.text" = "%2$@ hat eine Bestellung für %1$@ erhalten";
+
+"activity.details.order.echeck.goodsAndServices.credit.text" = "eCheck geschätztes Fertigstellungsdatum ist %1$@. Verschicken Sie keine Artikel, bis Sie die Zahlung erhalten haben.";
+
+"activity.details.order.echeck.goodsAndServices.debit.text" = "Das geschätzte Fertigstellungsdatum der eCheque ist %1$@. Wir empfehlen den Verkäufern, Artikel erst nach Zahlungseingang zu versenden.";
+
+"activity.details.order.payAfterDelivery.details.text" = "Ihre Bank wird automatisch auf %@belastet. Wenn Sie bereit sind zu zahlen, zögern Sie nicht, jetzt zu bezahlen.";
+
+"activity.details.payafterdelivery.failure-alert.text" = "Etwas scheint falsch gelaufen zu sein. Bitte warten Sie einen Moment, dann versuchen Sie es noch einmal.";
+
+"activity.details.purchaseItemName.text" = "%1$@ (Menge: %2$@)";
+
+"activity.details.requestMoney.cancelRequest.alertMessageRequestee" = "Wir werden eine E-Mail an %1$@ senden, um sie darüber zu informieren, dass die Anfrage storniert wurde.";
+
+"activity.details.requestMoney.cancelRequest.alertMessageRequester" = "Wir werden eine E-Mail an %1$@ senden, um sie wissen zu lassen, dass Sie die Geldanforderung abgelehnt haben.";
+
+"activity.details.transactionID.text" = "Transaktions-ID: %1$@";
+
+"activity.list.noTransactions.systemErrorTitle.label.text" = "Bitte versuche es erneut";
+
+"activity.navigationBar.title.availableBalance" = "Balance: %1$@";
