@@ -17,3 +17,4 @@
 "activity.details.transactionID.text" = "Transaction ID: %1$@";
 "activity.list.noTransactions.systemErrorTitle.label.text" = "Please try again";
 "activity.navigationBar.title.availableBalance" = "Balance: %1$@";
+
