@@ -16,3 +16,4 @@
 "activity.list.noTransactions.details.label.text" = "Quickly find all your payment info, respond to payment requests, send payments, and more.";
 "activity.list.noTransactions.systemErrorDetails.label.text" = "It looks like something went wrong on our end. Please try again in a moment.";
 "activity.list.noTransactions.systemErrorTitle.label.text" = "Please try that again";
+"activity.list.noTransactions.systemErrorTitle.label.textTest" = "L10n testing here";
