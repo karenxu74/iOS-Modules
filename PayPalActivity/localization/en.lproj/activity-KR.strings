@@ -1,9 +1,9 @@
 "activity.details.contactSeller.noEmail.errorMessage" = "Set it up in your device settings first. Or contact the seller through the PayPal website.";
 "activity.details.contactSeller.noEmail.errorOk" = "OK";
 "activity.details.contactSeller.noEmail.errorTitle" = "It looks like you haven't set up email on your mobile yet";
-"activity.details.counterPartyHistory.text" = "See other transactions";
+"activity.details.counterPartyHistory.text" = "Test";
 "activity.details.counterPartySendMoney.text" = "Send payments";
-"activity.details.funding.source.type.balance" = "PayPal balance";
+"activity.details.funding.source.type.balance" = "PayPal payments";
 "activity.details.invoice.action.visitwebsite" = "You can manage your invoices on our <a href='%1$@'>website</a>.";
 "activity.details.invoice.debit.text" = "%2$@ sent you an invoice for %1$@";
 "activity.details.moneyRefunded.credit.text" = "You were refunded %1$@ by %2$@";
